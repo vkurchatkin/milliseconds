@@ -1,0 +1,12 @@
+{
+    "name": "milliseconds",
+    "version": "0.0.1",
+    "description": "Convert anything to milliseconds.",
+    "main": "index.js",
+    "author": "Vladimir Kurchatkin",
+    "devDependencies": {
+        "grunt": "0.4.0rc8",
+        "grunt-simple-mocha": "*",
+        "grunt-contrib-watch": "*"
+    }
+}
